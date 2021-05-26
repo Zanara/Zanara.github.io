@@ -1,0 +1,43 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: 'Crimson Text', serif;
+    font-family: 'Lora', serif; /* this should be the rest of the output you got from Google fonts */
+    color : whitesmoke;
+    background-color: #00539F;
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 20px;
+    display: contents;
+    margin: 0;
+    padding: 20px 0;
+    color: #010a80;
+    text-shadow: 3px 3px 1px rgb(9, 33, 248);
+  }
+
+  p, li {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    font-family: 'Crimson Text', serif;
+  }
+
+  img{
+      /*padding: 01cm;
+      border-style: ridge;
+      border-image: 20cm; 
+      border-color: rgb(255, 49, 12);
+      background-color: rgba(9, 9, 212, 0.733);*/
+      display: block;
+      margin: 0 auto;
+  }
